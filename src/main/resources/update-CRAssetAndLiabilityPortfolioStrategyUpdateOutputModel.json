@@ -1,0 +1,17 @@
+{
+  "assetAndLiabilityPortfolioStrategyInstanceRecord" : {
+    "assetAndLiabilityPolicyGoalRecord" : {
+      "assetAndLiabilityPolicyType" : "assetAndLiabilityPolicyType",
+      "assetAndLiabilityPolicyTypePosition" : "assetAndLiabilityPolicyTypePosition",
+      "assetAndLiabilityPolicyTypeGoals" : "assetAndLiabilityPolicyTypeGoals",
+      "assetAndLiabilityPolicyTypeDefinition" : "assetAndLiabilityPolicyTypeDefinition",
+      "assetAndLiabilityPolicyTypeSensitivityAssessment" : "assetAndLiabilityPolicyTypeSensitivityAssessment"
+    },
+    "assetAndLiabilityBalanceSheet" : "assetAndLiabilityBalanceSheet",
+    "assetAndLiabilityMaturityLadder" : "assetAndLiabilityMaturityLadder",
+    "assetAndLiabilityCapitalAllocation" : "assetAndLiabilityCapitalAllocation"
+  },
+  "assetAndLiabilityPortfolioStrategyUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "assetAndLiabilityPortfolioStrategyUpdateActionTaskReference" : "AALPSUATR747353"
+}

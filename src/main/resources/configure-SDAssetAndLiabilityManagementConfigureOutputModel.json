@@ -1,0 +1,21 @@
+{
+  "serviceDomainServicingSessionStatus" : "serviceDomainServicingSessionStatus",
+  "serviceDomainConfigurationActionTaskRecord" : {},
+  "serviceDomainConfigurationActionTaskReference" : "SCATR765419",
+  "serviceDomainServiceConfigurationRecord" : {
+    "serviceDomainServiceStatus" : "serviceDomainServiceStatus",
+    "serviceDomainServiceConfigurationSettingDescription" : "serviceDomainServiceConfigurationSettingDescription",
+    "serviceDomainServiceConfigurationSetup" : {
+      "serviceDomainServiceConfigurationParameter" : "serviceDomainServiceConfigurationParameter"
+    },
+    "serviceDomainServiceAgreement" : {
+      "serviceDomainServiceAgreementReference" : "721156",
+      "serviceDomainServiceAgreementTermsandConditions" : "serviceDomainServiceAgreementTermsandConditions",
+      "serviceDomainServiceUserReference" : "733696"
+    },
+    "serviceDomainServiceSubscription" : {
+      "serviceDomainServiceSubscriberAccessProfile" : "serviceDomainServiceSubscriberAccessProfile",
+      "serviceDomainServiceSubscriberReference" : "756221"
+    }
+  }
+}

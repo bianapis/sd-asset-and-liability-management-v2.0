@@ -1,0 +1,15 @@
+{
+  "assetAndLiabilityPortfolioStrategyRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR747901",
+  "assetAndLiabilityPortfolioStrategyRequestActionTaskReference" : "AALPSRATR748912",
+  "assetAndLiabilityPortfolioStrategyInstanceRecord" : {
+    "assetAndLiabilityPolicyGoalRecord" : {
+      "assetAndLiabilityPolicyType" : "assetAndLiabilityPolicyType",
+      "assetAndLiabilityPolicyTypePosition" : "assetAndLiabilityPolicyTypePosition",
+      "assetAndLiabilityPolicyTypeGoals" : "assetAndLiabilityPolicyTypeGoals",
+      "assetAndLiabilityPolicyTypeDefinition" : "assetAndLiabilityPolicyTypeDefinition",
+      "assetAndLiabilityPolicyTypeSensitivityAssessment" : "assetAndLiabilityPolicyTypeSensitivityAssessment"
+    }
+  },
+  "requestResponseRecord" : {}
+}

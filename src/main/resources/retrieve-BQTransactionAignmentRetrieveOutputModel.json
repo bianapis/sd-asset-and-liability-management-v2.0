@@ -1,0 +1,26 @@
+{
+  "transactionAignmentRetrieveActionResponse" : "transactionAignmentRetrieveActionResponse",
+  "assetAndLiabilityPortfolioStrategyInstanceRecord" : {
+    "assetAndLiabilityPolicyGoalRecord" : {
+      "assetAndLiabilityPolicyType" : "assetAndLiabilityPolicyType",
+      "assetAndLiabilityPolicyTypePosition" : "assetAndLiabilityPolicyTypePosition",
+      "assetAndLiabilityPolicyTypeGoals" : "assetAndLiabilityPolicyTypeGoals",
+      "assetAndLiabilityPolicyTypeDefinition" : "assetAndLiabilityPolicyTypeDefinition",
+      "assetAndLiabilityPolicyTypeSensitivityAssessment" : "assetAndLiabilityPolicyTypeSensitivityAssessment"
+    }
+  },
+  "transactionAignmentRetrieveActionTaskReference" : "TARATR711799",
+  "transactionAignmentRetrieveActionTaskRecord" : {},
+  "transactionAignmentInstanceAnalysis" : {
+    "transactionAignmentInstanceAnalysisReport" : {},
+    "transactionAignmentInstanceAnalysisParameters" : "transactionAignmentInstanceAnalysisParameters",
+    "transactionAignmentInstanceAnalysisRecord" : {},
+    "transactionAignmentInstanceAnalysisReportType" : "transactionAignmentInstanceAnalysisReportType"
+  },
+  "transactionAignmentInstanceReport" : {
+    "transactionAignmentInstanceReportType" : "transactionAignmentInstanceReportType",
+    "transactionAignmentInstanceReportRecord" : {},
+    "transactionAignmentInstanceReportParameters" : "transactionAignmentInstanceReportParameters",
+    "transactionAignmentInstanceReport" : {}
+  }
+}

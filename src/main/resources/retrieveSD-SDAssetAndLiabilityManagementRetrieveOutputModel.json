@@ -1,0 +1,39 @@
+{
+  "serviceDomainRetrieveActionRecord" : {
+    "serviceDomainPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "serviceDomainActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "serviceDomainRetrieveActionTaskReference" : "SRATR795161",
+  "serviceDomainRetrieveActionResponse" : "serviceDomainRetrieveActionResponse",
+  "serviceDomainRetrieveActionTaskRecord" : {},
+  "serviceDomainOfferedService" : {
+    "serviceDomainServiceReference" : "776158",
+    "serviceDomainServiceRecord" : {
+      "serviceDomainServiceDescription" : "serviceDomainServiceDescription",
+      "serviceDomainServiceType" : "serviceDomainServiceType",
+      "serviceDomainServiceVersion" : "serviceDomainServiceVersion",
+      "serviceDomainServicePoliciesandGuidelines" : {
+        "serviceDomainServiceEligibility" : "serviceDomainServiceEligibility",
+        "serviceDomainServiceIntendedUses" : "serviceDomainServiceIntendedUses",
+        "serviceDomainServicePricingandTerms" : "serviceDomainServicePricingandTerms"
+      },
+      "serviceDomainServiceSchedule" : "serviceDomainServiceSchedule"
+    }
+  }
+}

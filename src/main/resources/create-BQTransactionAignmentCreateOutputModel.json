@@ -1,0 +1,15 @@
+{
+  "assetAndLiabilityPortfolioStrategyInstanceRecord" : {
+    "assetAndLiabilityPolicyGoalRecord" : {
+      "assetAndLiabilityPolicyType" : "assetAndLiabilityPolicyType",
+      "assetAndLiabilityPolicyTypePosition" : "assetAndLiabilityPolicyTypePosition",
+      "assetAndLiabilityPolicyTypeGoals" : "assetAndLiabilityPolicyTypeGoals",
+      "assetAndLiabilityPolicyTypeDefinition" : "assetAndLiabilityPolicyTypeDefinition",
+      "assetAndLiabilityPolicyTypeSensitivityAssessment" : "assetAndLiabilityPolicyTypeSensitivityAssessment"
+    }
+  },
+  "transactionAignmentInstanceReference" : "TAIR776226",
+  "transactionAignmentInstanceStatus" : "transactionAignmentInstanceStatus",
+  "transactionAignmentInitiateActionRecord" : {},
+  "transactionAignmentInitiateActionReference" : "TAIAR788063"
+}

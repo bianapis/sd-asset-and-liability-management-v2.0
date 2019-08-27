@@ -1,0 +1,24 @@
+{
+  "serviceDomainServicingSessionStatus" : "serviceDomainServicingSessionStatus",
+  "serviceDomainServicingSessionReference" : "SSSR783215",
+  "serviceDomainServicingSessionRecord" : {},
+  "serviceDomainActivationActionTaskReference" : "SAATR758836",
+  "serviceDomainActivationActionTaskRecord" : {},
+  "serviceDomainServiceConfigurationRecord" : {
+    "serviceDomainServiceStatus" : "serviceDomainServiceStatus",
+    "serviceDomainServiceConfigurationSettingDescription" : "serviceDomainServiceConfigurationSettingDescription",
+    "serviceDomainServiceConfigurationSetup" : {
+      "serviceDomainServiceConfigurationParameter" : "serviceDomainServiceConfigurationParameter"
+    },
+    "serviceDomainServiceAgreement" : {
+      "serviceDomainServiceAgreementReference" : "791202",
+      "serviceDomainServiceAgreementTermsandConditions" : "serviceDomainServiceAgreementTermsandConditions",
+      "serviceDomainServiceUserReference" : "767210"
+    },
+    "serviceDomainServiceConfigurationSettingReference" : "700761",
+    "serviceDomainServiceSubscription" : {
+      "serviceDomainServiceSubscriberAccessProfile" : "serviceDomainServiceSubscriberAccessProfile",
+      "serviceDomainServiceSubscriberReference" : "769192"
+    }
+  }
+}

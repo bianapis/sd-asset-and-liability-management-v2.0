@@ -1,0 +1,27 @@
+{
+  "assetAndLiabilityPortfolioStrategyRetrieveActionResponse" : "assetAndLiabilityPortfolioStrategyRetrieveActionResponse",
+  "assetAndLiabilityPortfolioStrategyInstanceAnalysis" : {
+    "assetAndLiabilityPortfolioStrategyInstanceAnalysisReport" : {},
+    "assetAndLiabilityPortfolioStrategyInstanceAnalysisReportType" : "assetAndLiabilityPortfolioStrategyInstanceAnalysisReportType",
+    "assetAndLiabilityPortfolioStrategyInstanceAnalysisData" : "assetAndLiabilityPortfolioStrategyInstanceAnalysisData"
+  },
+  "assetAndLiabilityPortfolioStrategyRetrieveActionTaskReference" : "AALPSRATR788465",
+  "assetAndLiabilityPortfolioStrategyInstanceRecord" : {
+    "assetAndLiabilityPolicyGoalRecord" : {
+      "assetAndLiabilityPolicyType" : "assetAndLiabilityPolicyType",
+      "assetAndLiabilityPolicyTypePosition" : "assetAndLiabilityPolicyTypePosition",
+      "assetAndLiabilityPolicyTypeGoals" : "assetAndLiabilityPolicyTypeGoals",
+      "assetAndLiabilityPolicyTypeDefinition" : "assetAndLiabilityPolicyTypeDefinition",
+      "assetAndLiabilityPolicyTypeSensitivityAssessment" : "assetAndLiabilityPolicyTypeSensitivityAssessment"
+    },
+    "assetAndLiabilityBalanceSheet" : "assetAndLiabilityBalanceSheet",
+    "assetAndLiabilityMaturityLadder" : "assetAndLiabilityMaturityLadder",
+    "assetAndLiabilityCapitalAllocation" : "assetAndLiabilityCapitalAllocation"
+  },
+  "assetAndLiabilityPortfolioStrategyRetrieveActionTaskRecord" : {},
+  "assetAndLiabilityPortfolioStrategyInstanceReportRecord" : {
+    "assetAndLiabilityPortfolioStrategyInstanceReportType" : "assetAndLiabilityPortfolioStrategyInstanceReportType",
+    "assetAndLiabilityPortfolioStrategyInstanceReport" : {},
+    "assetAndLiabilityPortfolioStrategyInstanceReportData" : "assetAndLiabilityPortfolioStrategyInstanceReportData"
+  }
+}
